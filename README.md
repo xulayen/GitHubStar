@@ -30,5 +30,8 @@ GITPASSWORD	= "1" #Gitee password
 #############settings#############
 ```
 ### Step 3
+pip install requests
+
+### Step 4
 Run```python -u main.py```  
 Everything is ok,hooray!
